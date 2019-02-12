@@ -9,7 +9,7 @@ int arr[]=new int[n];
 for(int i=0;i<n;i++){
 arr[i]=scan.nextInt();
 }
-for(int j=0;j<k;j++){
+for(j=0;j<k;j++){
 sum=sum+arr[j];
 }
 System.out.println(sum);
