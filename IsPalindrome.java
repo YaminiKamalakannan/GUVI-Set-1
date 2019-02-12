@@ -11,7 +11,7 @@ int num=scan.nextInt();
 int res=0,rem=0;
 
 int ab=num;
-while(ab!=0&& num<=1000){
+while(ab!=0){
 
 rem=ab%10;
 
