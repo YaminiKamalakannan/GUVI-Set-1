@@ -41,15 +41,6 @@ System.out.print(i+"  ");
 		
 }
 		
-if(count == 0)
-        
-{
-            
-System.out.print("Armstrong Number not Found between the Given Interval.");
-        
-}
-
-	
 }
 
 }
